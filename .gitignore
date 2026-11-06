@@ -3,4 +3,6 @@
 .DS_Store
 __pycache__/
 db_index/
+naiveDB/
+parent_rag_db/
 .env
